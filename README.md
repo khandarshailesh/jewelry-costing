@@ -1,6 +1,6 @@
 # Jewelry Costing Application
 
-A comprehensive jewelry costing and management system built with Laravel and Vue.js, featuring multi-tenant architecture, advanced costing calculations, and BRWZR ZTAGE 3D editor integration.
+A comprehensive jewelry costing and management system built with Laravel and Vue.js, featuring multi-tenant architecture, advanced costing calculations.
 
 ## Features
 
@@ -10,7 +10,6 @@ A comprehensive jewelry costing and management system built with Laravel and Vue
   - Lucky items costing
   - Bill of Materials (BOM) management
   - Advanced rate configurations
-- **3D Editor Integration**: BRWZR ZTAGE 3D editor for jewelry design
 - **Master Data Management**:
   - Categories
   - Materials
