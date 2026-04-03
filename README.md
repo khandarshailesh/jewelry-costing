@@ -183,7 +183,7 @@ jewelry-costing/
 Manage different types of materials used in jewelry production with rates and specifications.
 
 ### 2. Products
-Create and manage jewelry products with detailed specifications and 3D models.
+Create and manage jewelry products with detailed specifications.
 
 ### 3. Costing Calculator
 Calculate comprehensive costs for:
